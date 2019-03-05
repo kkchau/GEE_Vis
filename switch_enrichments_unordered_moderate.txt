@@ -1,0 +1,10 @@
+query.number	significant	p.value	term.size	query.size	overlap.size	precision	recall	term.id	domain	subgraph.number	term.name	relative.depth	intersection
+1	TRUE	0.0092	12	1	1	1	0.083	KEGG:00120	keg	2	Primary bile acid biosynthesis	1	ENSG00000133835
+1	TRUE	0.0198	11	3	1	0.333	0.091	REAC:R-HSA-2046106	rea	8	alpha-linolenic acid (ALA) metabolism	1	ENSG00000133835
+1	TRUE	0.0198	6	3	1	0.333	0.167	REAC:R-HSA-9033500	rea	3	TYSND1 cleaves peroxisomal proteins	1	ENSG00000133835
+1	TRUE	0.0198	7	3	1	0.333	0.143	REAC:R-HSA-389887	rea	7	Beta-oxidation of pristanoyl-CoA	1	ENSG00000133835
+1	TRUE	0.0257	18	3	1	0.333	0.056	REAC:R-HSA-193368	rea	1	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	1	ENSG00000133835
+1	TRUE	0.0261	68	1	1	1	0.015	KEGG:04146	keg	9	Peroxisome	1	ENSG00000133835
+1	TRUE	0.0461	1	4	1	0.25	1	GO:0036111	BP	4	very long-chain fatty-acyl-CoA metabolic process	1	ENSG00000133835
+1	TRUE	0.0461	1	4	1	0.25	1	GO:0033989	MF	6	"3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase activity"	1	ENSG00000133835
+1	TRUE	0.0461	1	4	1	0.25	1	GO:0044594	MF	5	17-beta-hydroxysteroid dehydrogenase (NAD+) activity	1	ENSG00000133835
